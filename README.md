@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
+## Explicação do Desafio
+Esse repositório é a Resolução do Desafio proposto abaixo onde era necessário modificar e impementar algumas melhorias em um repositório parcialmente pronto. Nele foi necessário aplicar os conceitos de C# aprendidos durante a trilha .Net da DIO.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
